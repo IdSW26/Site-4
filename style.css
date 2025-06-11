@@ -1,0 +1,32 @@
+header{
+    height: 150px;
+    background-color: blue;
+}
+main{
+    background-color: #cead41;
+    height: 550px;
+}
+body{
+    margin: 0%;
+}
+h1{
+    margin: 0%;
+    margin-left: 15px;
+    text-decoration: underline;
+}
+footer{
+    background-color: blue;
+    height: 100px;
+}
+img{
+    height: 200px;
+    margin-left: 15px;
+}
+h2{
+    margin-left: 15px;
+}
+.peixe{
+    float: left;
+    margin-right: 150px;
+    height: 150px;
+}
